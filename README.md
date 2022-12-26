@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piotr</h1>
 <h3 align="center">A passionate CS student at the University of Gdańsk!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piterson25&label=Profile%20views&color=0e75b6&style=flat" alt="piterson25" /> </p>
-
 - 🎮 I'm currently developing my own game in C++, available when it's ready! [Defnight](https://github.com/Piterson25/Defnight)
 
 - 🌱 I’m currently learning **Docker, Express, Flask, MongoDB, React and Tailwind.**
