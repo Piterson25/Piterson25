@@ -3,7 +3,7 @@
 
 - 🎮 I'm currently developing my own game in C++, available when it's ready! [Defnight](https://github.com/Piterson25/Defnight)
 
-- 🌱 I’m currently learning **Docker, Express, Flask, MongoDB, React and Tailwind.**
+- 🌱 I’m currently learning **Advanced C++, Docker, Golang and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
