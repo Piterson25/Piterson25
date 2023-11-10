@@ -1,5 +1,4 @@
 <img align="center" src="https://github.com/Piterson25/Piterson25/blob/main/banner.png">
-<br>
 
 ### 🌟 Skills:
 
@@ -23,8 +22,6 @@
 - [Quiz_App](https://github.com/Piterson25/Quiz_App) - 🗓️ Platform for making and playing quizzes
 - [Shop_App](https://github.com/Piterson25/Shop_App) - 🛍️ E-commerce web application
 - [Flybooker](https://github.com/Piterson25/Flybooker) - ✈️ Flights booker app with Keycloak
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&username=Piterson25" height="150" alt="stats graph"  />
