@@ -3,22 +3,18 @@
 ### 🌟 Skills:
 
 - 💻 C++, C#, Python, Java, Golang, R
-- 🌐 HTML, CSS, SASS, TailwindCSS, JS, TS, React, Node.js
-- 🛠️ CMake, Flask, Redux
-- 📊 SQL, MongoDB, Neo4j
+- 🌐 HTML, CSS, SCSS, TailwindCSS, JS, TS, React
+- ⚙️ Flask, Node.js, Spring Boot
+- 🛠️ CMake
+- 📊 SQL, MongoDB, Neo4j, PostgreSQL
 - 🐳 Docker
 - 🐧 Linux, Bash
-- 🧠 Git, GitHub, GitLab, Azure
-
-### 🌱 Learning:
-
-- 🌀 Blender
-- 🚀 Jenkins
-- 🍃 Spring Boot
+- 🧠 Git, Azure
 
 ### 📐 Main projects:
 
 - [Defnight](https://github.com/Piterson25/Defnight) - 🎮 2D RPG PvE game made in C++ SFML
+- [Mercury-Project](https://github.com/Piterson25/Mercury-Project) - 🪐 Group project communication app
 - [Quiz_App](https://github.com/Piterson25/Quiz_App) - 🗓️ Platform for making and playing quizzes
 - [Shop_App](https://github.com/Piterson25/Shop_App) - 🛍️ E-commerce web application
 - [Flybooker](https://github.com/Piterson25/Flybooker) - ✈️ Flights booker app with Keycloak
