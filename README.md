@@ -4,8 +4,7 @@
 
 - 💻 C++, C#, Python, Java, Golang, R
 - 🌐 HTML, CSS, SCSS, TailwindCSS, JS, TS, React
-- ⚙️ Flask, Node.js, Spring Boot
-- 🛠️ CMake
+- 🛠️ CMake, Flask, Node.js, Spring Boot
 - 📊 SQL, MongoDB, Neo4j, PostgreSQL
 - 🐳 Docker
 - 🐧 Linux, Bash
