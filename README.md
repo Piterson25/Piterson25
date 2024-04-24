@@ -6,9 +6,7 @@
 - 🌐 HTML, CSS, SCSS, TailwindCSS, JS, TS, React
 - 🛠️ CMake, Flask, Node.js, Spring Boot
 - 📊 SQL, MongoDB, Neo4j, PostgreSQL
-- 🐳 Docker
-- 🐧 Linux, Bash
-- 🧠 Git, Azure
+- 🏗️ Docker, Linux, Git
 
 ### 📐 Main projects:
 
